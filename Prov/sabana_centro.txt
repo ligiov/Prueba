@@ -1,0 +1,82 @@
+<html>
+	<head>
+
+	<table align="center" width="100%" cellpadding="50%" 
+	background="foncere.gif">
+	<tr ><td >
+		<title> PROVINCIA DEL SUMAPAZ</title>
+	</head>
+
+<body>
+	<br>
+	<a name ="inicio"> </a>
+<IMG SRC="logo.jpg"  align=center width="900" height="40" border="0" border = 3  >	 
+
+	<marquee bgcolor= "#1111ff"> <font face= "comics sans ms" color = "#ffffff" size = "20" > PROVINCIA DEL SUMAPAZ	</font></marquee>
+<br>
+
+<IMG SRC="logo.jpg"  align="center" width="900" height="40" border="0" border = 3  >
+	<br>
+	<br>
+	<br>
+
+ <center><FONT SIZE=4 COLOR="green" FACE="Arial, Verdana"><H3>LOCALIZACION GEOGRAFICA </H3> </FONT> </center> 
+<hr size = "3" color = "BLACK" width="100%">
+
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify">Localizada al centro del departamento, es recorrida de norte a sur por el Río Bogotá. En su territorio existen minas de sal en los Municipios de Nemocón y Zipaquirá; siendo la Zipaquira la más famosa y conocida, ambas minas están dedicadas al turismo. Fue colonizada por los Muiscas. Gran parte del territorio se encuentra sobre la Sabana de Bogotá. </H5> </FONT> 
+
+<br>
+<br>
+
+ <IMG SRC="sabana_centro.jpg"  align="center"   border = 3  >
+
+<br>
+<br>
+<br>
+<br>
+<center><FONT SIZE=4 COLOR="green" FACE="Arial, Verdana"><H3>LIMITES PROVINCIALES</H3> 		</FONT> </center> 
+<hr size = "3" color = "BLACK" width="75%">
+
+<br>
+
+
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Norte: Provincia de Ubaté </H5> </FONT
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Sur: Distrito Capital </H5> </FONT
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Oeste: Provincias de Sabana Occidente y la Provincia de Rionegro </H5> </FONT
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Este: con las Provincias del Guavio y la Provincia de Almeidas  </H5> </FONT>
+
+
+ 	
+	
+
+	
+<br>
+<br>
+
+ <center><FONT SIZE=4 COLOR="green" FACE="Arial, Verdana"><H3>HISTORIA</H3> </FONT> </center> 
+<hr size = "3" color = "BLACK" width="75%">
+ <p align="justify"> 
+
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Se crea a partir de la Ordenanza 023 de 1998, que establece la actual división del departamento en 15 provincias. Anteriormente la provincia de Sabana Centro estaba compuesta por los municipios de Cajicá, Chía, Cogua, Cota, Distrito Capital, Gachancipá, Guasca, La Calera, Nemocón, Sopó, Tocancipá y Zipaquirá, incorporando a Tabio y Tenjo de la Provincia de Sabana Occidente, pero segregandole los Municipios de La Calera y Guasca que pasaron a hacer parte de la Provincia del Guavio. </H5> </FONT> 
+
+
+ <center><FONT SIZE=4 COLOR="green" FACE="Arial, Verdana"><H3>ADMINISTRACION</H3> </FONT> </center> 
+<hr size = "3" color = "BLACK" width="75%"> 
+
+<p align="justify"> 
+ <FONT SIZE=4 COLOR="black" FACE="Arial, Verdana"> <H5><p align="justify"> Actualmente esta compuesta por 11 Municipios, que son <I><B>Cajicá, Chía, Cogua, Cota, Gachancipá, Nemocón, Sopó, Tabio, Tenjo, Tocancipá y Zipaquirá</I></B>.
+</H5> </FONT> 
+
+		<br>
+		<br>
+
+ </p>
+
+
+
+</BODY> 
+
+
+</HTML> 
+
+	
